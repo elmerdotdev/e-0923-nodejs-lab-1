@@ -32,6 +32,6 @@ Goal: Create a CRUD todo application with login functionality
 - todo: `{ id, task, completed, user }`
 - user: `{ id, username, password }`
 
-## Helpful
+## Resources
 
 - [https://github.com/elmerdotdev/e-0923-nodejs-review-w1-w2]
