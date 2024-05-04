@@ -22,7 +22,7 @@ Goal: Create a CRUD todo application with login functionality
    - Add To Do `/todos/new` - Add todo form
    - Edit To Do `/todos/edit/:id` - Edit todo form
 
-6. A user who is not logged in should be able to view, add, or edit any todo. If they are not logged in, they will be redirected to the `/login` page
+6. A user who is not logged in should not be able to view, add, or edit any todo. If they are not logged in, they will be redirected to the `/login` page
 7. For the login functionality, your backend must be able to receive and send back a `username` cookie
 8. Once you are done, push your changes, create a PR from `dev` to `master` and merge
 
