@@ -18,8 +18,7 @@ Goal: Create a CRUD todo application with login functionality
 
    - Home `/` - Just use dummy text with log out button
    - Login `/login` - Login form
-   - To Dos `/todos` - List of todos with **View** and **Delete** buttons for each todo
-   - View Todo `/todos/view/:id` - Show the current todo
+   - To Dos `/todos` - List of todos with **Edit** and **Delete** buttons for each todo
    - Add To Do `/todos/new` - Add todo form
    - Edit To Do `/todos/edit/:id` - Edit todo form
 
