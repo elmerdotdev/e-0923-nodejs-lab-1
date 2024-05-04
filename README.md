@@ -7,6 +7,7 @@ Goal: Create a CRUD todo application with login functionality
 1. Create the backend server using NodeJS and Express. Install the required packages:
 
    - express
+   - dotenv
    - cors
    - bcrypt
    - cookie-parser
